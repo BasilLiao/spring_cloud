@@ -9,6 +9,6 @@ Spring Cloud Netflix Eureka簡介
 由於微服務中每個服務實例是動態部屬的，也就是每個服務實例的位址是動態分配而非固定，
 因此需要一套機制來維護目前整個微服務系統中每一個服務實例的位址及監控每一個服務實例的健康狀態，
 這個機制就稱為服務註冊及發現(Service Registration and Discovery)。
----
+OK
 轉至:
 http://www.ityouknow.com/springcloud/2018/07/20/spring-cloud-consul.html
