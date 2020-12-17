@@ -67,11 +67,12 @@
 			<artifactId>spring-cloud-starter-consul-all</artifactId>
 		</dependency>
 		<!-- spring cloud MQ 訊息堆疊器 支援 -->
+		<!-- 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-stream-binder-rabbit</artifactId>
 		</dependency>
-
+ -->
 		<!-- spring boot 測試類別 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
